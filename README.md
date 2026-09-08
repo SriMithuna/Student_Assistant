@@ -75,13 +75,23 @@ The first load takes a little longer since it builds the search index and loads 
 
 ```
 study_assistant/
-├── app.py            # CLI version
-├── server.py         # Flask web server (new)
-├── rag_engine.py      # Shared RAG + memory + quiz logic
+├── app.py                    # CLI version
+├── server.py                 # Flask web server
+├── rag_engine.py             # Shared RAG + memory + quiz logic
 ├── templates/
-│   └── index.html    # Web chat frontend (new)
+│   └── index.html            # Web chat frontend
 ├── data/
-│   └── sample_notes.txt
+│   ├── academic_rules.txt
+│   ├── admissions_eligibility.txt
+│   ├── campus_discipline.txt
+│   ├── college_profile.txt
+│   ├── courses_seats.txt
+│   ├── hostel_policies.txt
+│   ├── library_rules.txt
+│   ├── pasted.txt
+│   ├── placement_details.txt
+│   ├── sample_notes.txt
+│   └── scholarships.txt
 └── requirements.txt
 ```
 
