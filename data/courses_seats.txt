@@ -1,0 +1,19 @@
+COURSES OFFERED:
+
+OVERVIEW:
+- The college offers Undergraduate (UG) and Postgraduate (PG) programs
+
+
+UNDERGRADUATE COURSES:
+
+- B.E Computer Science and Engineering (CSE) - 120 seats
+- B.Tech Artificial Intelligence and Data Science - 60 seats
+- B.Tech Information Technology - 60 seats
+- B.E Electronics and Communication Engineering - 60 seats
+- B.E Mechanical Engineering - 60 seats
+
+
+POSTGRADUATE COURSES:
+
+- M.E Computer Science and Engineering - 18 seats
+- Master of Business Administration (MBA)

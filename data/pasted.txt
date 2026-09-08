@@ -1,0 +1,1265 @@
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE- 
+GORY 
+PERIODS PER 
+WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  IP3151 Induction Programme - - - - - 0 
+THEORY 
+2.  HS3152 Professional English - I HSMC 3 0 0 3 3 
+3.  MA3151 Matrices  and  Calculus BSC 3 1 0 4 4 
+4.  PH3151 Engineering Physics BSC 3 0 0 3 3 
+5.  CY3151 Engineering Chemistry BSC 3 0 0 3 3 
+6.  GE3151 Problem Solving and Python 
+Programming ESC 3 0 0 3 3 
+7.  GE3152 தமிழர் மரபு  /Heritage of Tamils HSMC 1 0 0 1 1 
+PRACTICALS 
+8.  GE3171 Problem Solving and Python 
+Programming Laboratory ESC 0 0 4 4 2 
+9.  BS3171 Physics and Chemistry Laboratory BSC 0 0 4 4 2 
+10.  GE3172 English Laboratory $ EEC 0 0 2 2 1 
+TOTAL 16 1 10 27 22 
+$ Skill Based Course 
+SEMESTER II 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE- 
+GORY 
+PERIODS PER 
+WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  HS3252 Professional English - II HSMC 2 0 0 2 2 
+2.  MA3251 Statistics and Numerical Methods  BSC 3 1 0 4 4 
+3.  PH3256 Physics for Information Science BSC 3 0 0 3 3 
+4.  BE3251 Basic Electrical and Electronics 
+Engineering  ESC 3 0 0 3 3 
+5.  GE3251 Engineering Graphics ESC 2 0 4 6 4 
+6.  CS3251 Programming in C PCC 3 0 0 3 3 
+7.  GE3252 தமிழரும் ததொழில்நுட்பமும் 
+/Tamils and Technology 
+HSMC 1 0 0 1 1 
+8.   NCC Credit Course Level 1# - 2 0 0 2 2# 
+PRACTICALS 
+9.  GE3271 Engineering Practices Laboratory ESC 0 0 4 4 2 
+10.  CS3271 Programming in C Laboratory PCC 0 0 4 4 2 
+11.  GE3272 Communication Laboratory / Foreign 
+Language $ EEC 0 0 4 4 2 
+TOTAL 17 1 16 34 26 
+# NCC Credit Course level 1 is offered for NCC students only. The grades earned by the students will be recorded 
+in the Mark Sheet, however the same shall not be considered for the computation of CGPA.  
+$ Skill Based Course  
+ 
+6 
+ 
+SEMESTER III 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  MA3354 Discrete Mathematics BSC 3 1 0 4 4 
+2.  CS3351 Digital Principles and 
+Computer Organization ESC 3 0 2 5 4 
+3.  CS3352 Foundations of Data 
+Science PCC 3 0 0 3 3 
+4.  CS3301 Data Structures  PCC 3 0 0 3 3 
+5.  CS3391 Object Oriented 
+Programming PCC 3 0 0 3 3 
+PRACTICALS 
+6.  CS3311 Data Structures Laboratory PCC 0 0 3 3 1.5 
+7.  CS3381 Object Oriented 
+Programming Laboratory PCC 0 0 3 3 1.5 
+8.  CS3361 Data Science Laboratory PCC 0 0 4 4 2 
+9.  GE3361 Professional Development$ EEC 0 0 2 2 1 
+TOTAL 15 1 14 30 23 
+$ Skill Based Course 
+SEMESTER IV 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  CS3452 Theory of Computation PCC 3 0 0 3 3 
+2.  CS3491 Artificial Intelligence and 
+Machine Learning PCC 3 0 2 5 4 
+3.  CS3492 Database Management 
+Systems  PCC 3 0 0 3 3 
+4.  CS3401 Algorithms PCC 3 0 2 5 4 
+5.  CS3451 Introduction to Operating 
+Systems  PCC 3 0 0 3 3 
+6.  GE3451 Environmental Sciences and 
+Sustainability BSC 2 0 0 2 2 
+7.   NCC Credit Course Level 2#  3 0 0 3  3 # 
+PRACTICALS 
+8.  CS3461 Operating Systems Laboratory PCC 0 0 3 3 1.5 
+9.  CS3481 Database Management 
+Systems Laboratory PCC 0 0 3 3 1.5 
+TOTAL 20 0 10 30 22 
+# NCC Credit Course level 2 is offered for NCC students only. The grades earned by the 
+students will be recorded in the Mark Sheet, however the same shall not be considered for 
+the computation of CGPA. 
+ 
+ 
+ 
+7 
+ 
+SEMESTER V 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS PER 
+WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  CS3591 Computer Networks PCC 3 0 2 5 4 
+2.  CS3501 Compiler Design PCC 3 0 2 5 4 
+3.  CB3491 Cryptography and Cyber 
+Security PCC 3 0 0 3 3 
+4.  CS3551 Distributed Computing PCC 3 0 0 3 3 
+5.   Professional Elective I PEC - - - - 3 
+6.   Professional Elective II PEC - - - - 3 
+7.   Mandatory Course-I& MC 3 0 0 3 Non-credit 
+course 
+TOTAL - - - - 20 
+& Mandatory Course-I is a Non-credit Course (Student shall select one course from the list 
+given under Mandatory Course-I) 
+ 
+SEMESTER VI 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  CCS356 Object Oriented Software 
+Engineering PCC 3 0 2 5 4 
+2.  CS3691 Embedded Systems and IoT PCC 3 0 2 5 4 
+3.   Open Elective – I* OEC 3 0 0 3 3 
+4.   Professional Elective III PEC - - - - 3 
+5.   Professional Elective IV PEC - - - - 3 
+6.   Professional Elective V PEC - - - - 3 
+7.   Professional Elective VI PEC - - - - 3 
+8.   Mandatory Course-II & MC 3 0 0 3 Non-credit 
+course 
+9.   NCC Credit Course Level 3#  3 0 0 3   3 # 
+TOTAL - - - - 23 
+*Open Elective – I Shall be chosen from the list of open electives offered by other 
+Programmes   
+     
+& Mandatory Course-II is a Non-credit Course (Student shall select one course from the list 
+given under Mandatory Course-II) 
+ 
+# NCC Credit Course level 3 is offered for NCC students only. The grades earned by the 
+students will be recorded in the Mark Sheet, however the same shall not be considered for 
+the computation of CGPA 
+ 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+SEMESTER VII / VIII* 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+THEORY 
+1.  GE3791 Human Values and Ethics HSMC 2 0 0 2 2 
+2.   Elective - Management# HSMC 3 0 0 3 3 
+3.   Open Elective – II** OEC 3 0 0 3 3 
+4.   Open Elective – III** OEC 3 0 0 3 3 
+5.   Open Elective – IV** OEC  3 0 0 3 3 
+PRACTICALS 
+6.  CS3711 Summer internship EEC 0 0 0 0 2 
+TOTAL 14 0 0 14 16 
+*If students undergo internship in Semester VII, then the courses offered during semester VII 
+will be offered during semester VIII. 
+** Open Elective II - IV (Shall be chosen from the list of open electives offered by other 
+Programmes). 
+# Elective - Management shall be chosen from the Elective Management courses. 
+ 
+SEMESTER VIII /VII* 
+ 
+S. 
+NO
+. 
+COURSE 
+  CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+PRACTICALS 
+1.  CS3811 Project Work/Internship EEC 0 0 20 20 10 
+TOTAL 0 0 20 20 10 
+*If students undergo internship in Semester VII, then the courses offered during semester VII 
+will be offered during semester VIII. 
+                                                                                                TOTAL CREDITS: 162 
+ 
+ELECTIVE – MANAGEMENT COURSES 
+ 
+S. 
+NO. 
+COURSE 
+  CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PERWEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  GE3751 Principles of Management HSMC 3 0 0 3 3 
+2.  GE3752 Total Quality Management HSMC 3 0 0 3 3 
+3.  GE3753 Engineering Economics and 
+Financial Accounting HSMC 3 0 0 3 3 
+4.  GE3754 Human Resource 
+Management HSMC 3 0 0 3 3 
+5.  GE3755 Knowledge Management HSMC 3 0 0 3 3 
+6.  GE3792 Industrial Management HSMC 3 0 0 3 3 
+ 
+ 
+ 
+9 
+ 
+ 
+ 
+MANDATORY COURSES I* 
+ 
+S. 
+NO. 
+ 
+COURSE 
+CODE 
+COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  MX3081 Introduction to Women 
+and Gender Studies MC 3 0 0 3 0 
+2.  MX3082 Elements of Literature  MC 3 0 0 3 0 
+3.  MX3083 Film Appreciation MC 3 0 0 3 0 
+4.  MX3084 Disaster Risk Reduction 
+and Management MC 3 0 0 3 0 
+*Mandatory Courses are offered as Non-Credit Courses 
+ 
+ 
+MANDATORY COURSES II* 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS 
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  
+MX3085 
+Well Being with 
+Traditional Practices 
+Yoga, Ayurveda and 
+Siddha 
+MC 3 0 0 3 0 
+2.  MX3086 History of Science and 
+Technology in India MC 3 0 0 3 0 
+3.  
+MX3087 
+Political and Economic 
+Thought for a Humane 
+Society  
+MC 3 0 0 3 0 
+4.  MX3088 State,  Nation Building 
+and Politics in India  MC 3 0 0 3 0 
+5.  MX3089 Industrial Safety MC 3 0 0 3 0 
+*Mandatory Courses are offered as Non-Credit Courses 
+ 
+ 
+   
+ 
+ 
+10 
+ 
+PROFESSIONAL ELECTIVE COURSES: VERTICALS 
+ 
+ 
+Registration of Professional Elective Courses from Verticals: 
+ 
+Refer to the Regulations 2021, Clause 6.3. (Amended on 27.07.2023) 
+Vertical I 
+Data Science 
+Vertical II 
+Full Stack 
+Development 
+Vertical III 
+Cloud Computing and 
+Data Center 
+Technologies 
+Vertical IV 
+Cyber Security and 
+Data Privacy 
+Vertical V 
+Creative Media 
+Vertical VI 
+Emerging 
+Technologies 
+Vertical VII 
+Artificial 
+Intelligence and 
+Machine Learning 
+Exploratory Data 
+Analysis Web Technologies Cloud Computing Ethical Hacking 
+Augmented 
+Reality/Virtual 
+Reality 
+Augmented 
+Reality/Virtual 
+Reality 
+Knowledge 
+Engineering 
+Recommender 
+Systems App Development Virtualization Digital and Mobile 
+Forensics 
+Multimedia and 
+Animation 
+Robotic Process 
+Automation Soft Computing 
+Neural Networks 
+and Deep Learning 
+Cloud Services 
+Management 
+Cloud Services 
+Management 
+ 
+Social Network 
+Security 
+Video Creation 
+and Editing 
+Neural Networks 
+and Deep Learning 
+Neural Networks 
+and Deep Learning 
+Text and 
+Speech  Analysis UI and UX Design Data Warehousing Modern Cryptography UI and UX Design Cyber security Text and 
+Speech  Analysis 
+Business Analytics Software Testing 
+and Automation Storage Technologies Engineering Secure 
+Software Systems Digital marketing Quantum 
+Computing 
+Optimization 
+Techniques 
+Image and Video 
+Analytics 
+Web Application 
+Security 
+Software Defined 
+Networks 
+Cryptocurrency and 
+Blockchain 
+Technologies 
+Visual Effects 
+Cryptocurrency and 
+Blockchain 
+Technologies 
+Game Theory 
+Computer Vision DevOps Stream Processing Network Security Game 
+Development 
+Game 
+Development Cognitive Science 
+Big Data Analytics 
+Principles of 
+Programming 
+Languages 
+Security and Privacy in 
+Cloud 
+Security and Privacy in 
+Cloud 
+Multimedia Data  
+Compression and  
+Storage 
+3D Printing  and 
+Design Ethics And AI 
+ 
+11 
+ 
+PROFESSIONAL ELECTIVE COURSES: VERTICALS 
+ 
+VERTICAL 1: DATA SCIENCE 
+ 
+S. 
+NO. 
+COURSE 
+    CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS346 Exploratory Data Analysis PEC 2 0 2 4 3 
+2.  CCS360 Recommender Systems PEC 2 0 2 4 3 
+3.  CCS355 Neural Networks and Deep 
+Learning PEC 2 0 2 4 3 
+4.  CCS369 Text and Speech  Analysis PEC 2 0 2 4 3 
+5.  CCW331 Business Analytics  PEC 2 0 2 4 3 
+6.  CCS349 Image and Video Analytics PEC 2 0 2 4 3 
+7.  CCS338 Computer Vision PEC 2 0 2 4 3 
+8.  CCS334 Big Data Analytics PEC 2 0 2 4 3 
+ 
+VERTICAL 2:  FULL STACK DEVELOPMENT 
+ 
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS375 Web Technologies PEC 2 0 2 4 3 
+2.  CCS332 App Development   PEC 2 0 2 4 3 
+3.  CCS336 Cloud Services 
+Management PEC 2 0 2 4 3 
+4.  CCS370 UI and UX Design  PEC 2 0 2 4 3 
+5.  CCS366 Software Testing and 
+Automation PEC 2 0 2 4 3 
+6.  CCS374 Web Application Security PEC 2 0 2 4 3 
+7.  CCS342 DevOps  PEC 2 0 2 4 3 
+8.  CCS358 Principles of Programming 
+Languages PEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+VERTICAL 3: CLOUD COMPUTING AND DATA CENTER TECHNOLOGIES 
+ 
+S. 
+NO. 
+COURSE 
+    CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS335 Cloud Computing PEC 2 0 2 4 3 
+2.  CCS372 Virtualization  PEC 2 0 2 4 3 
+3.  CCS336 Cloud Services 
+Management PEC 2 0 2 4 3 
+4.  CCS341 Data Warehousing PEC 2 0 2 4 3 
+5.  CCS367 Storage Technologies PEC 3 0 0 3 3 
+6.  CCS365 Software Defined Networks  PEC 2 0 2 4 3 
+7.  CCS368 Stream Processing PEC 2 0 2 4 3 
+8.  CCS362 Security and Privacy in 
+Cloud  PEC 2 0 2 4 3 
+ 
+VERTICAL 4: CYBER SECURITY AND DATA PRIVACY 
+ 
+S. 
+NO. 
+COURSE 
+    CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS344 Ethical Hacking  PEC 2 0 2 4 3 
+2.  CCS343 Digital and Mobile 
+Forensics PEC 2 0 2 4 3 
+3.  CCS363 Social Network Security PEC 2 0 2 4 3 
+4.  CCS351 Modern Cryptography PEC 2 0 2 4 3 
+5.  CB3591 Engineering Secure 
+Software Systems   PEC 2 0 2 4 3 
+6.  CCS339 Cryptocurrency and 
+Blockchain Technologies PEC 2 0 2 4 3 
+7.  CCS354 Network Security PEC 2 0 2 4 3 
+8.  CCS362 Security and Privacy in 
+Cloud  PEC 2 0 2 4 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+VERTICAL 5: CREATIVE MEDIA 
+ 
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS333 Augmented Reality/Virtual 
+Reality PEC 2 0 2 4 3 
+2.  CCS352 Multimedia and Animation PEC 2 0 2 4 3 
+3.  CCS371 Video Creation and Editing PEC 2 0 2 4 3 
+4.  CCS370 UI and UX Design  PEC 2 0 2 4 3 
+5.  CCW332 Digital marketing PEC 2 0 2 4 3 
+6.  CCS373 Visual Effects PEC 2 0 2 4 3 
+7.  CCS347 Game Development PEC 2 0 2 4 3 
+8.  CCS353 Multimedia Data  
+Compression and  Storage PEC 2 0 2 4 3 
+ 
+VERTICAL 6: EMERGING TECHNOLOGIES 
+ 
+S. 
+NO. 
+COURSE 
+    CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS333 Augmented Reality/Virtual 
+Reality PEC 2 0 2 4 3 
+2.  CCS361 Robotic Process 
+Automation PEC 2 0 2 4 3 
+3.  CCS355 Neural Networks and Deep 
+Learning PEC 2 0 2 4 3 
+4.  CCS340 Cyber security PEC 2 0 2 4 3 
+5.  CCS359 Quantum Computing PEC 2 0 2 4 3 
+6.  CCS339 Cryptocurrency and 
+Blockchain Technologies PEC 2 0 2 4 3 
+7.  CCS347 Game Development PEC 2 0 2 4 3 
+8.  CCS331 3D Printing and Design PEC 2 0 2 4 3 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+VERTICAL 7: ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+ 
+SL. 
+NO. 
+COURSE 
+    CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CCS350 Knowledge Engineering PEC 2 0 2 4 3 
+2.  CCS364 Soft Computing  PEC 2 0 2 4 3 
+3.  CCS355 Neural Networks and Deep 
+Learning PEC 2 0 2 4 3 
+4.  CCS369 Text and Speech  Analysis  PEC 2 0 2 4 3 
+5.  CCS357 Optimization Techniques  PEC 2 0 2 4 3 
+6.  CCS348 Game Theory PEC 2 0 2 4 3 
+7.  CCS337 Cognitive Science PEC 2 0 2 4 3 
+8.  CCS345 Ethics And AI PEC 2 0 2 4 3 
+ 
+OPEN ELECTIVES 
+(Students shall choose the open elective courses, such that the course contents are not 
+similar to any other course contents/title under other course categories). 
+ 
+OPEN ELECTIVES – I  
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+  GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  OAS351 Space Science  OEC 3 0 0 3 3 
+2.  OIE351 Introduction to Industrial 
+Engineering OEC 3 0 0 3 3 
+3.  OBT351 Food, Nutrition and Health OEC 3 0 0 3 3 
+4.  OCE351 Environmental and Social 
+Impact Assessment OEC 3 0 0 3 3 
+5.  OEE351 Renewable Energy 
+System OEC 3 0 0 3 3 
+6.  
+OEI351 
+Introduction to Industrial 
+Instrumentation and 
+Control 
+OEC 3 0 0 3 3 
+7.  OMA351 Graph Theory OEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+OPEN ELECTIVES –  II 
+ 
+SL. 
+NO. 
+COURSE 
+CODE 
+ 
+COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  OIE352 Resource Management 
+Techniques OEC 3 0 0 3 3 
+2.  OMG351 Fintech Regulation OEC 3 0 0 3 3 
+3.  OFD351 Holistic Nutrition     OEC 3 0 0 3 3 
+4.  AI3021 IT in Agricultural System OEC 3 0 0 3 3 
+5.  OEI352 Introduction to Control 
+Engineering OEC 3 0 0 3 3 
+6.  OPY351 Pharmaceutical 
+Nanotechnology OEC 3 0 0 3 3 
+7.  OAE351 Aviation Management OEC 3 0 0 3 3 
+ 
+OPEN ELECTIVES – III  
+ 
+SL. 
+NO. 
+COURSE 
+  CODE 
+ 
+COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  OHS351 English for Competitive 
+Examinations OEC 3 0 0 3 3 
+2.  OMG352 NGOs and Sustainable 
+Development OEC 3 0 0 3 3 
+3.  OMG353 Democracy and Good 
+Governance OEC 3 0 0 3 3 
+4.  CME365 Renewable Energy 
+Technologies OEC 3 0 0 3 3 
+5.  OME354 Applied Design Thinking  OEC 3 0 0 3 3 
+6.  MF3003 Reverse Engineering OEC 3 0 0 3 3 
+7.  OPR351 Sustainable Manufacturing OEC 3 0 0 3 3 
+8.  AU3791 Electric and Hybrid Vehicles OEC 3 0 0 3 3 
+9.  OAS352 Space Engineering  OEC 3 0 0 3 3 
+10.  OIM351 Industrial Management OEC 3 0 0 3 3 
+11.  OIE354 Quality Engineering OEC 3 0 0 3 3 
+12.  OSF351 Fire Safety Engineering OEC 3 0 0 3 3 
+13.  OML351 Introduction to Non-destructive 
+Testing OEC 3 0 0 3 3 
+14.  OMR351 Mechatronics  OEC 3 0 0 3 3 
+15.  ORA351 Foundation of  Robotics  OEC 3 0 0 3 3 
+16.  OAE352 Fundamentals of Aeronautical  
+Engineering   OEC 3 0 0 3 3 
+17.  OGI351 Remote Sensing Concepts OEC 3 0 0 3 3 
+ 
+16 
+ 
+18.  OAI351 Urban Agriculture OEC 3 0 0 3 3 
+19.  OEN351 Drinking Water Supply and 
+Treatment OEC 3 0 0 3 3 
+20.  OEE352 Electric Vehicle Technology OEC 3 0 0 3 3 
+21.  OEI353 Introduction to PLC 
+Programming OEC 3 0 0 3 3 
+22.  OCH351 Nano Technology OEC 3 0 0 3 3 
+23.  OCH352 Functional Materials OEC 3 0 0 3 3 
+24.  OFD352 Traditional Indian Foods OEC 3 0 0 3 3 
+25.  OFD353 Introduction to food processing  OEC 3 0 0 3 3 
+26.  OPY352 IPR for Pharma Industry OEC 3 0 0 3 3 
+27.  OTT351 Basics of Textile Finishing OEC 3 0 0 3 3 
+28.  OTT352 Industrial Engineering for 
+Garment Industry OEC 3 0 0 3 3 
+29.  OTT353 Basics of Textile Manufacture OEC 3 0 0 3 3 
+30.  OPE351 Introduction to Petroleum 
+Refining and Petrochemicals OEC 3 0 0 3 3 
+31.  CPE334 Energy Conservation and 
+Management OEC 3 0 0 3 3 
+32.  OPT351 Basics of Plastics Processing OEC 3 0 0 3 3 
+33.  OEC351 Signals and Systems  OEC 3 0 0 3 3 
+34.  OEC352 Fundamentals of Electronic 
+Devices and Circuits OEC 3 0 0 3 3 
+35.  CBM348 Foundation Skills in Integrated 
+Product Development OEC 3 0 0 3 3 
+36.  CBM333 Assistive Technology OEC 3 0 0 3 3 
+37.  OMA352 Operations Research OEC 3 0 0 3 3 
+38.  OMA353 Algebra and Number Theory OEC 3 0 0 3 3 
+39.  OMA354 Linear Algebra OEC 3 0 0 3 3 
+40.  OCE353 Lean Concepts, Tools and 
+Practices OEC 3 0 0 3 3 
+41.  OBT352 Basics of Microbial 
+Technology OEC 3 0 0 3 3 
+42.  OBT353 Basics of Biomolecules   OEC 3 0 0 3 3 
+43.  OBT354 Fundamentals of Cell and 
+Molecular Biology            OEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+OPEN ELECTIVES – IV  
+SL. 
+NO. 
+COURSE 
+  CODE 
+ 
+COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  OHS352 Project Report Writing OEC 3 0 0 3 3 
+2.  OMA355 Advanced Numerical 
+Methods OEC 3 0 0 3 3 
+3.  OMA356 Random Processes OEC 3 0 0 3 3 
+4.  OMA357 Queuing and Reliability 
+Modelling OEC 3 0 0 3 3 
+5.  
+OMG354 
+Production and Operations 
+Management for 
+Entrepreneurs 
+OEC 3 0 0 3 3 
+6.  OMG355 Multivariate Data Analysis OEC 3 0 0 3 3 
+7.  OME352 Additive Manufacturing  OEC 3 0 0 3 3 
+8.  CME343 New Product Development   OEC 3 0 0 3 3 
+9.  OME355 Industrial Design & Rapid 
+Prototyping Techniques  OEC 3 0 0 3 3 
+10.   MF3010 Micro and Precision 
+Engineering OEC 3 0 0 3 3 
+11.  OMF354 Cost Management of 
+Engineering Projects OEC 3 0 0 3 3 
+12.  AU3002 Batteries and  Management 
+system  OEC 3 0 0 3 3 
+13.  AU3008 Sensors and Actuators OEC 3 0 0 3 3 
+14.  OAS353 Space Vehicles  OEC 3 0 0 3 3 
+15.  OIM352 Management Science OEC 3 0 0 3 3 
+16.  OIM353 Production Planning and 
+Control OEC 3 0 0 3 3 
+17.  OIE353 Operations Management OEC 3 0 0 3 3 
+18.  OSF352 Industrial Hygiene OEC 3 0 0 3 3 
+19.  OSF353 Chemical Process Safety OEC 3 0 0 3 3 
+20.  OML352 Electrical, Electronic and 
+Magnetic materials OEC 3 0 0 3 3 
+21.  OML353 Nanomaterials and 
+Applications OEC 3 0 0 3 3 
+22.  OMR352 Hydraulics and Pneumatics  OEC 3 0 0 3 3 
+23.  OMR353 Sensors  OEC 3 0 0 3 3 
+24.  ORA352 Concepts in Mobile Robots   OEC 3 0 0 3 3 
+25.  MV3501 Marine Propulsion OEC 3 0 0 3 3 
+26.  OMV351 Marine Merchant Vessels OEC 3 0 0 3 3 
+27.  OMV352 Elements of Marine 
+Engineering OEC 3 0 0 3 3 
+28.  CRA332 Drone Technologies OEC 3 0 0 3 3 
+ 
+18 
+ 
+29.  OGI352 Geographical Information 
+System OEC 3 0 0 3 3 
+30.  OAI352 Agriculture Entrepreneurship 
+Development OEC 3 0 0 3 3 
+31.  OEN352 Biodiversity Conservation OEC 3 0 0 3 3 
+32.  OEE353 Introduction to control 
+systems OEC 3 0 0 3 3 
+33.  OEI354 Introduction to Industrial 
+Automation Systems OEC 3 0 0 3 3 
+34.  OCH353 Energy Technology OEC 3 0 0 3 3 
+35.  OCH354 Surface Science OEC 3 0 0 3 3 
+36.  OFD354 Fundamentals of Food 
+Engineering OEC 3 0 0 3 3 
+37.  OFD355 Food safety and Quality 
+Regulations OEC 3 0 0 3 3 
+38.  OPY353 Nutraceuticals OEC 3 0 0 3 3 
+39.  OTT354 Basics of Dyeing and Printing  OEC 3 0 0 3 3 
+40.  FT3201 Fibre Science OEC 3 0 0 3 3 
+41.  OTT355 Garment Manufacturing 
+Technology OEC 3 0 0 3 3 
+42.  OPE353 Industrial safety OEC 3 0 0 3 3 
+43.  OPE354 Unit Operations in Petro 
+Chemical Industries OEC 3 0 0 3 3 
+44.  OPT352 Plastic  Materials for 
+Engineers OEC 3 0 0 3 3 
+45.  OPT353 Properties and Testing of 
+Plastics OEC 3 0 0 3 3 
+46.  OEC353 VLSI Design OEC 3 0 0 3 3 
+47.  CBM370 Wearable Devices OEC 3 0 0 3 3 
+48.  CBM356 Medical Informatics OEC 3 0 0 3 3 
+49.  OCE354 Basics of Integrated Water 
+Resources Management OEC 3 0 0 3 3 
+50.  OBT355 Biotechnology for Waste 
+Management    OEC 3 0 0 3 3 
+51.  OBT356 Lifestyle Diseases     OEC 3 0 0 3 3 
+52.  OBT357 Biotechnology in Health Care OEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+SUMMARY 
+ 
+ 
+ 
+ENROLLMENT FOR B.E. / B. TECH. (HONOURS) / MINOR DEGREE (OPTIONAL) 
+ 
+A student can also optionally register for additional courses (18 credits) and become eligible for the 
+award of B.E. / B. Tech. (Honours) or Minor Degree. 
+ 
+For B.E. / B. Tech. (Honours), a student shall register for the additional courses (18 credits) from 
+semester V onwards. These courses shall be from the same vertical or a combination of different 
+verticals of the same programme of study only. 
+ 
+For minor degree, a student shall register for the additional courses (18 credits) from semester V 
+onwards. All these courses have to be in a particular vertical from any one of the other programmes, 
+Moreover, for minor degree the student can register for courses from any one of the following verticals 
+also. 
+Complete details are available in clause 4.10 (Amendments) of Regulations 2021. 
+ 
+Name of the Programme: B.E. Computer Science and Engineering 
+S.No Subject Area Credits per Semester Total 
+Credits   I II III IV V VI VII/VIII VIII/VII 
+1 HSMC 4 3     5  12 
+2 BSC 12 7 4 2     25 
+3 ESC 5 9 4      18 
+4 PCC  5 14 20 14 8   61 
+5 PEC     6 12   18 
+6 OEC      3 9  12 
+7 EEC 1 2 1    2 10 16 
+8 Non-Credit 
+/(Mandatory)         √ √       
+Total 22 26 23 22 20 23 16 10 162 
+ 
+20 
+ 
+VERTICALS FOR MINOR DEGREE 
+ (In addition to all the verticals of other programmes) 
+Vertical I 
+Fintech and 
+Block Chain 
+Vertical II 
+Entrepreneurship 
+ Vertical III 
+Public 
+Administration 
+ Vertical IV 
+Business Data 
+Analytics 
+Vertical V 
+Environment and 
+Sustainability 
+Financial 
+Management 
+ 
+Foundations  of 
+Entrepreneurship 
+Principles of Public 
+Administration 
+Statistics for 
+Management 
+Sustainable 
+infrastructure 
+Development 
+Fundamentals 
+of Investment 
+ 
+Team Building & 
+Leadership 
+Management for 
+Business 
+Constitution of 
+India 
+Datamining for 
+Business 
+Intelligence 
+ 
+Sustainable 
+Agriculture and 
+Environmental 
+Management 
+Banking, 
+Financial 
+Services and 
+Insurance 
+Creativity &  Innovation 
+in Entrepreneurship 
+Public Personnel 
+Administration 
+ 
+Human 
+Resource 
+Analytics 
+ 
+Sustainable Bio 
+Materials 
+ 
+Introduction to 
+Blockchain 
+and its 
+Applications 
+Principles of Marketing 
+Management for 
+Business 
+Administrative 
+Theories 
+ 
+Marketing and 
+Social Media 
+Web Analytics 
+ 
+Materials for 
+Energy 
+Sustainability 
+Fintech 
+Personal 
+Finance and 
+Payments 
+Human Resource 
+Management for 
+Entrepreneurs 
+ 
+Indian 
+Administrative 
+System 
+Operation and 
+Supply Chain 
+Analytics 
+ 
+Green Technology 
+ 
+Introduction to 
+Fintech 
+ 
+Financing  New  
+Business Ventures 
+ 
+Public Policy 
+Administration 
+ 
+Financial 
+Analytics 
+ 
+Environmental 
+Quality Monitoring 
+and Analysis - - - - 
+Integrated Energy 
+Planning for 
+Sustainable 
+Development - - - - 
+Energy Efficiency 
+for Sustainable 
+Development 
+ 
+21 
+ 
+ 
+(choice of courses for Minor degree is to be made from any one vertical of other 
+programmes or from anyone of the following verticals) 
+ 
+VERTICAL 1: FINTECH AND BLOCK CHAIN 
+ 
+S. 
+NO. 
+COURSE 
+CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CMG331 Financial Management                                         PEC 3 0 0 3 3 
+2.  CMG332 Fundamentals of 
+Investment   PEC 3 0 0 3 3 
+3.  CMG333 Banking, Financial 
+Services and Insurance PEC 3 0 0 3 3 
+4.  
+CMG334 
+Introduction to 
+Blockchain and its 
+Applications 
+PEC 3 0 0 3 3 
+5.  CMG335 Fintech Personal 
+Finance and Payments PEC 3 0 0 3 3 
+6.  CMG336 Introduction to Fintech PEC 3 0 0 3 3 
+ 
+VERTICAL 2: ENTREPRENEURSHIP 
+ 
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CMG337 Foundations  of 
+Entrepreneurship PEC 3 0 0 3 3 
+2.  
+CMG338 
+Team Building & 
+Leadership Management 
+for Business 
+PEC 3 0 0 3 3 
+3.  CMG339 Creativity &  Innovation in 
+Entrepreneurship PEC 3 0 0 3 3 
+4.  
+CMG340 
+Principles of Marketing 
+Management For 
+Business 
+PEC 3 0 0 3 3 
+5.  
+CMG341 
+Human Resource 
+Management for 
+Entrepreneurs  
+PEC 3 0 0 3 3 
+6.  CMG342 Financing  New  
+Business Ventures PEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+ 
+ VERTICAL 3: PUBLIC ADMINISTRATION 
+ 
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CMG343 Principles of Public 
+Administration  PEC 3 0 0 3 3 
+2.  CMG344 Constitution of India PEC 3 0 0 3 3 
+3.  CMG345 Public Personnel 
+Administration PEC 3 0 0 3 3 
+4.  CMG346 Administrative Theories PEC 3 0 0 3 3 
+5.  CMG347 Indian Administrative 
+System  PEC 3 0 0 3 3 
+6.  CMG348 Public Policy 
+Administration   PEC 3 0 0 3 3 
+ 
+ VERTICAL 4: BUSINESS DATA ANALYTICS 
+ 
+S. 
+NO. 
+COURSE 
+ CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CMG349 Statistics for 
+Management PEC 3 0 0 3 3 
+2.  CMG350 Datamining For 
+Business Intelligence  PEC 3 0 0 3 3 
+3.  CMG351 Human Resource 
+Analytics PEC 3 0 0 3 3 
+4.  CMG352 Marketing and Social 
+Media Web Analytics PEC 3 0 0 3 3 
+5.  CMG353 Operation and Supply 
+Chain Analytics PEC 3 0 0 3 3 
+6.  CMG354 Financial Analytics PEC 3 0 0 3 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+ 
+ 
+ VERTICAL 5: ENVIRONMENT AND SUSTAINABILITY 
+ 
+S. 
+NO. 
+COURSE 
+   CODE COURSE TITLE CATE 
+GORY 
+PERIODS  
+PER WEEK 
+TOTAL 
+CONTACT 
+PERIODS 
+CREDITS 
+L T P 
+1.  CES331 Sustainable infrastructure 
+Development PEC 3 0 0 3 3 
+2.  
+CES332 
+Sustainable Agriculture 
+and Environmental 
+Management 
+PEC 3 0 0 3 3 
+3.  CES333 Sustainable Bio Materials PEC 3 0 0 3 3 
+4.  CES334 Materials for Energy 
+Sustainability PEC 3 0 0 3 3 
+5.  CES335 Green Technology PEC 3 0 0 3 3 
+6.  CES336 Environmental Quality 
+Monitoring and Analysis PEC 3 0 0 3 3 
+7.  
+CES337 
+Integrated Energy 
+Planning for Sustainable 
+Development 
+PEC 3 0 0 3 3 
+8.  
+CES338 
+Energy Efficiency for 
+Sustainable 
+Development  
+PEC 3 0 0 3 3

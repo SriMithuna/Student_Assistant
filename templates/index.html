@@ -1,0 +1,463 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --paper: #ededed;
+        --panel: #f7f7f7;
+        --ink: #222222;
+        --muted: #6e6e6e;
+        --border: #d9d9d9;
+        --accent: #4a4a4a;
+        --accent-hover: #333333;
+        --accent-soft: #e8e8e8;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        background: var(--paper);
+        color: var(--ink);
+        font-family:
+          "Inter",
+          -apple-system,
+          sans-serif;
+        font-size: 15px;
+      }
+      .layout {
+        display: flex;
+        height: 100vh;
+      }
+
+      /* Sidebar */
+      .sidebar {
+        width: 260px;
+        flex-shrink: 0;
+        background: var(--panel);
+        border-right: 1px solid var(--border);
+        display: flex;
+        flex-direction: column;
+        padding: 24px 20px;
+      }
+      .brand {
+        font-family: "Lora", serif;
+        font-weight: 600;
+        font-size: 20px;
+        letter-spacing: -0.01em;
+        margin-bottom: 2px;
+      }
+      .brand-sub {
+        color: var(--muted);
+        font-size: 12.5px;
+        margin-bottom: 28px;
+      }
+      .side-btn {
+        width: 100%;
+        padding: 10px 14px;
+        border-radius: 8px;
+        border: 1px solid var(--border);
+        background: var(--panel);
+        color: var(--ink);
+        font-size: 13.5px;
+        font-weight: 500;
+        cursor: pointer;
+        text-align: left;
+        margin-bottom: 8px;
+      }
+      .side-btn:hover {
+        background: var(--paper);
+      }
+
+      .quiz-block {
+        margin-top: 28px;
+        padding-top: 20px;
+        border-top: 1px solid var(--border);
+      }
+      .quiz-label {
+        font-size: 12.5px;
+        color: var(--muted);
+        margin-bottom: 8px;
+      }
+      .quiz-block input {
+        width: 100%;
+        padding: 9px 12px;
+        border-radius: 8px;
+        border: 1px solid var(--border);
+        background: var(--paper);
+        color: var(--ink);
+        font-size: 13.5px;
+        margin-bottom: 8px;
+        font-family: inherit;
+      }
+      .quiz-block input:focus {
+        outline: 2px solid var(--accent);
+        outline-offset: -1px;
+      }
+      .quiz-btn {
+        width: 100%;
+        padding: 9px 12px;
+        border-radius: 8px;
+        border: none;
+        background: var(--accent);
+        color: white;
+        font-size: 13.5px;
+        font-weight: 500;
+        cursor: pointer;
+      }
+      .quiz-btn:hover {
+        background: var(--accent-hover);
+      }
+
+      .sidebar-footer {
+        margin-top: auto;
+        font-size: 12px;
+        color: var(--muted);
+        line-height: 1.5;
+      }
+
+      /* Main chat column */
+      .main {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+      }
+      .chat-scroll {
+        flex: 1;
+        overflow-y: auto;
+        display: flex;
+        justify-content: center;
+      }
+      .chat-inner {
+        width: 100%;
+        max-width: 680px;
+        padding: 40px 24px 24px;
+      }
+
+      .empty-state {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-top: 15vh;
+      }
+      .empty-state h1 {
+        font-family: "Lora", serif;
+        font-weight: 500;
+        font-style: italic;
+        font-size: 26px;
+        color: var(--ink);
+        margin: 0 0 8px;
+      }
+      .empty-state p {
+        color: var(--muted);
+        font-size: 14px;
+        max-width: 340px;
+        line-height: 1.6;
+        margin: 0;
+      }
+
+      .msg-row {
+        display: flex;
+        margin-bottom: 22px;
+      }
+      .msg-row.user {
+        justify-content: flex-end;
+      }
+      .msg-row.assistant {
+        justify-content: flex-start;
+      }
+
+      .bubble-user {
+        background: var(--accent);
+        color: white;
+        padding: 10px 16px;
+        border-radius: 16px 16px 4px 16px;
+        max-width: 78%;
+        line-height: 1.5;
+        white-space: pre-wrap;
+        font-size: 14.5px;
+      }
+      .assistant-text {
+        max-width: 88%;
+        line-height: 1.65;
+        white-space: pre-wrap;
+        font-size: 14.5px;
+      }
+      .assistant-label {
+        font-size: 11.5px;
+        color: var(--muted);
+        margin-bottom: 4px;
+        font-weight: 500;
+      }
+      .system-note {
+        text-align: center;
+        color: var(--muted);
+        font-size: 12.5px;
+        margin: 12px 0 24px;
+      }
+
+      .typing {
+        color: var(--muted);
+        font-size: 13.5px;
+        font-style: italic;
+      }
+
+      /* Input bar */
+      .input-bar {
+        display: flex;
+        justify-content: center;
+        padding: 16px 24px 24px;
+        border-top: 1px solid var(--border);
+        background: var(--paper);
+      }
+      .input-shell {
+        width: 100%;
+        max-width: 680px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        padding: 6px 6px 6px 18px;
+      }
+      .input-shell input {
+        flex: 1;
+        border: none;
+        background: transparent;
+        font-size: 14.5px;
+        color: var(--ink);
+        font-family: inherit;
+        padding: 8px 0;
+      }
+      .input-shell input:focus {
+        outline: none;
+      }
+      .send-btn {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        border: none;
+        background: var(--accent);
+        color: white;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .send-btn:hover {
+        background: var(--accent-hover);
+      }
+      .send-btn:disabled {
+        background: var(--border);
+        cursor: default;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="sidebar">
+        <div class="brand">Student Assistant</div>
+        <div class="brand-sub">Ask questions from your notes</div>
+
+        <button class="side-btn" onclick="resetMemory()">
+          + New conversation
+        </button>
+
+        <div class="quiz-block">
+          <div class="quiz-label">Generate a quiz</div>
+          <input
+            id="quiz-topic"
+            type="text"
+            placeholder="Topic, e.g. photosynthesis"
+          />
+          <button class="quiz-btn" onclick="generateQuiz()">Generate</button>
+        </div>
+
+        <div class="sidebar-footer">
+          Answers are drawn only from your uploaded course material.
+        </div>
+      </aside>
+
+      <div class="main">
+        <div class="chat-scroll" id="chat-scroll">
+          <div class="chat-inner" id="chat-inner">
+            <div class="empty-state" id="empty-state">
+              <h1>What are you studying today?</h1>
+              <p>
+                Ask a question about your course notes, or generate a quiz from
+                the sidebar to test yourself.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="input-bar">
+          <form
+            class="input-shell"
+            id="input-form"
+            onsubmit="sendMessage(event)"
+          >
+            <input
+              id="message-input"
+              type="text"
+              placeholder="Ask a question about your notes..."
+              autocomplete="off"
+            />
+            <button class="send-btn" type="submit" aria-label="Send">
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="white"
+                stroke-width="2.4"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="12" y1="19" x2="12" y2="5" />
+                <polyline points="5 12 12 5 19 12" />
+              </svg>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const chatInner = document.getElementById("chat-inner");
+      const chatScroll = document.getElementById("chat-scroll");
+      let firstMessageSent = false;
+
+      function clearEmptyState() {
+        if (!firstMessageSent) {
+          chatInner.innerHTML = "";
+          firstMessageSent = true;
+        }
+      }
+
+      function scrollToBottom() {
+        chatScroll.scrollTop = chatScroll.scrollHeight;
+      }
+
+      function addUserMessage(text) {
+        clearEmptyState();
+        const row = document.createElement("div");
+        row.className = "msg-row user";
+        row.innerHTML = `<div class="bubble-user"></div>`;
+        row.querySelector(".bubble-user").textContent = text;
+        chatInner.appendChild(row);
+        scrollToBottom();
+      }
+
+      function addAssistantMessage(text) {
+        clearEmptyState();
+        const row = document.createElement("div");
+        row.className = "msg-row assistant";
+        const wrap = document.createElement("div");
+        wrap.innerHTML = `<div class="assistant-label">Study Assistant</div>`;
+        const body = document.createElement("div");
+        body.className = "assistant-text";
+        body.textContent = text;
+        wrap.appendChild(body);
+        row.appendChild(wrap);
+        chatInner.appendChild(row);
+        scrollToBottom();
+      }
+
+      function addTyping() {
+        clearEmptyState();
+        const row = document.createElement("div");
+        row.className = "msg-row assistant";
+        row.id = "typing-row";
+        row.innerHTML = `<div class="typing">Thinking...</div>`;
+        chatInner.appendChild(row);
+        scrollToBottom();
+      }
+
+      function removeTyping() {
+        const el = document.getElementById("typing-row");
+        if (el) el.remove();
+      }
+
+      async function sendMessage(e) {
+        e.preventDefault();
+        const input = document.getElementById("message-input");
+        const message = input.value.trim();
+        if (!message) return;
+        addUserMessage(message);
+        input.value = "";
+        addTyping();
+
+        try {
+          const res = await fetch("/ask", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ message }),
+          });
+          const data = await res.json();
+          removeTyping();
+          addAssistantMessage(
+            data.answer || data.error || "Something went wrong.",
+          );
+        } catch (err) {
+          removeTyping();
+          addAssistantMessage(
+            "Could not reach the server. Is it still running?",
+          );
+        }
+      }
+
+      async function generateQuiz() {
+        const topicInput = document.getElementById("quiz-topic");
+        const topic = topicInput.value.trim() || "the material";
+        addUserMessage("Quiz: " + topic);
+        addTyping();
+
+        try {
+          const res = await fetch("/quiz", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ topic }),
+          });
+          const data = await res.json();
+          removeTyping();
+          addAssistantMessage(
+            data.quiz || data.error || "Something went wrong.",
+          );
+        } catch (err) {
+          removeTyping();
+          addAssistantMessage(
+            "Could not reach the server. Is it still running?",
+          );
+        }
+        topicInput.value = "";
+      }
+
+      async function resetMemory() {
+        await fetch("/reset", { method: "POST" });
+        firstMessageSent = false;
+        chatInner.innerHTML = `
+    <div class="empty-state">
+      <h1>What are you studying today?</h1>
+      <p>Ask a question about your course notes, or generate a quiz from the sidebar to test yourself.</p>
+    </div>`;
+      }
+    </script>
+  </body>
+</html>
